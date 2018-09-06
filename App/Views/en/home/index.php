@@ -3,7 +3,7 @@
 		<h1 class="topo">Hi, <br>
 		I'm [Bpd_237], <br>
 		Web Developper</h1>
-		<span class="description">Fullstack Web Developer & Designer</span> <br>
+		<span class="description">Fullstack Web Developer</span> <br>
 		<a href="Contact" class="contact_me">Contact Me</a>
 	</div>
 </section>
